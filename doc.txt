@@ -1,0 +1,21 @@
+Fonts:
+BebasNeueRegular
+BebasNeueBold
+Monteserrat Regular
+Monteserrat Bold
+AlfaSlabOne Regular
+
+
+color:
+Dark coffee #3d2514
+White #ffffff
+yellow #fbc334
+red #de1c1c
+border-color: #bebebe
+
+Express Delivery +1 234 567 890
+
+It is a good time for the great taste of burgers
+
+Burger
+Week
